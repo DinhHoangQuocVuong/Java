@@ -1,5 +1,5 @@
 # [English Below] - [Database Visualization Below Also]
-# Website ngân hàng CDTPay - Made by Chung - Duy - Thuong.
+# Website ngân hàng CDTPay - Made by Vương - Trọng.
 ## Đây là phiên bản cải tiến so với hệ thống quản lý ngân hàng mà chúng mình đã làm hồi trước.
 ### Mục đích của ứng dụng này là cung cấp một trang web ngân hàng với nhiều tính năng khác nhau.
 ### Công nghệ sử dụng: HTML, CSS, JS, Java, JSP, Servlet. Dữ liệu được lưu trữ & quản lý bằng MySQL
@@ -36,7 +36,7 @@ Thông tin cá nhân của cả quản trị viên và người dùng được l
 - Tăng thêm lớp bảo mật
 - Triển khai gamification 
 __________________________________________________________________________________________
-# CDTPay - Made by Chung - Duy - Thuong.
+# CDTPay - Made by Vuong - Trong.
 ## This is an improved version compared to the bank management system that we did before.
 ### This application aims to provide a banking website with various features. 
 ### Technology used: HTML, CSS, JS, Java, JSP, Servlet. Data is stored & managed using MySQL
